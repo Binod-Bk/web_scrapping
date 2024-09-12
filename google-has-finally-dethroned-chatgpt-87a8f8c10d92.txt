@@ -1,0 +1,64 @@
+URL: https://medium.com/@ignacio.de.gregorio.noblejas/google-has-finally-dethroned-chatgpt-87a8f8c10d92
+
+Sign up
+
+Sign in
+
+Sign up
+
+Sign in
+
+Member-only story
+
+Ignacio de Gregorio
+
+Follow
+
+--
+
+146
+
+Share
+
+When you look at what Google has just achieved, it’s no wonder OpenAI suddenly released Sora a few hours later to distract the world from the fact they aren’t in the lead anymore in the Large Language Model (LLM) space.
+
+Google’s Gemini 1.5 Pro is a generational leap in terms of Multimodal Large Language Models, or MLLMs, much like GPT-4 was to LLMs back in March 2023.
+
+Specifically, it‘s capable of processing millions of words at a time, 40-minute-long videos, or 11 hours of audio in seconds with 99% context retrieval accuracy, absolutely unheard of in the field until today.
+
+The long-sequence era has arrived, and with it, a new dominant player looks down at OpenAI for the first time.
+
+This insight and others have mostly been previously shared in my weekly newsletter, TheTechOasis.
+
+If you want to be up-to-date with the frenetic world of AI while also feeling inspired to take action or, at the very least, to be well-prepared for the future ahead of us, this is for you.
+
+🏝Subscribe below🏝
+
+--
+
+--
+
+146
+
+I break down AI in easy-to-understand language for you. Sign up here: https://thetechoasis.beehiiv.com/subscribe Business inquiries: nacho@thewhitebox.ai
+
+Help
+
+Status
+
+About
+
+Careers
+
+Press
+
+Blog
+
+Privacy
+
+Terms
+
+Text to speech
+
+Teams
+
